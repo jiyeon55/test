@@ -13,12 +13,8 @@ build.gradle    ceo-mobile-web  gradle          gradlew.bat
 /Users/woowahan/pilot-web-test
 
 ~/pilot-web-test QAWEBTEST-29
-❯ vi README.md
 
-
-
-
-
+//아이고. 몬해먹겠다..ㅠ
 
 
 
